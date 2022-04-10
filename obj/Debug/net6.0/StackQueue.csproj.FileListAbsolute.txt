@@ -1,0 +1,15 @@
+C:\Users\dell\Desktop\.net_bridgelabz\StackQueue\bin\Debug\net6.0\StackQueue.exe
+C:\Users\dell\Desktop\.net_bridgelabz\StackQueue\bin\Debug\net6.0\StackQueue.deps.json
+C:\Users\dell\Desktop\.net_bridgelabz\StackQueue\bin\Debug\net6.0\StackQueue.runtimeconfig.json
+C:\Users\dell\Desktop\.net_bridgelabz\StackQueue\bin\Debug\net6.0\StackQueue.dll
+C:\Users\dell\Desktop\.net_bridgelabz\StackQueue\bin\Debug\net6.0\ref\StackQueue.dll
+C:\Users\dell\Desktop\.net_bridgelabz\StackQueue\bin\Debug\net6.0\StackQueue.pdb
+C:\Users\dell\Desktop\.net_bridgelabz\StackQueue\obj\Debug\net6.0\StackQueue.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\.net_bridgelabz\StackQueue\obj\Debug\net6.0\StackQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\.net_bridgelabz\StackQueue\obj\Debug\net6.0\StackQueue.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\.net_bridgelabz\StackQueue\obj\Debug\net6.0\StackQueue.AssemblyInfo.cs
+C:\Users\dell\Desktop\.net_bridgelabz\StackQueue\obj\Debug\net6.0\StackQueue.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\.net_bridgelabz\StackQueue\obj\Debug\net6.0\StackQueue.dll
+C:\Users\dell\Desktop\.net_bridgelabz\StackQueue\obj\Debug\net6.0\ref\StackQueue.dll
+C:\Users\dell\Desktop\.net_bridgelabz\StackQueue\obj\Debug\net6.0\StackQueue.pdb
+C:\Users\dell\Desktop\.net_bridgelabz\StackQueue\obj\Debug\net6.0\StackQueue.genruntimeconfig.cache
