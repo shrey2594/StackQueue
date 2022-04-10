@@ -44,5 +44,26 @@ namespace StackQueue
                 }
             }
         }
+        private bool peek()
+        {
+            if(this.last == null)
+            {
+                Console.WriteLine("Stack is empty.");
+                return false;
+            }
+            else
+            {
+                return true;
+            }
+        }
+        public void pop()
+        {
+            while(peek() != false)
+            {
+                Console.WriteLine("Stack is not empty and the value to be popped is:" + this.last.data);
+                last=last.next;
+                display();
+            }
+        }
     }
 }

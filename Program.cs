@@ -14,6 +14,7 @@ namespace StackQueue
             stack.display();
             stack.push(493);
             stack.display();
+            stack.pop();
         }
     }
 
